@@ -29,4 +29,4 @@ gh pr create --base master --head update_logo --title "Update logo and link" --b
 # 8. Merge PR (no approval required)
 gh pr merge --merge
 
-# REPO_URL <your_public_github_url>
+# REPO_URL <https://github.com/penudevops/devsecops>
