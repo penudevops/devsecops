@@ -15,6 +15,11 @@ public class HelloWorld {
 }
 import java.util.Scanner;
 class JavaExample
+	public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
 {
    public static void main(String[ ] arg)
    {
